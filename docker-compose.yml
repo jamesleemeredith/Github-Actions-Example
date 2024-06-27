@@ -1,0 +1,5 @@
+services:
+  fact_api:
+    image: erikhuck/datapy-devops
+    ports:
+      - 8000:80
